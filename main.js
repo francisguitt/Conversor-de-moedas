@@ -8,7 +8,7 @@
     setTimeout(() => {
       alert(" Esse aplicativo usa serviços externos \n de https://docs.awesomeapi.com.br/ \n api-de-moedas ");
       // msg saud company api.
-    }, 3000)
+    }, 10000)
   })
   // start of main function auto close
   //variabls global
