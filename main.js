@@ -107,7 +107,7 @@
         .innerHTML = `Maximo ${item.High}`
       L_ow.innerHTML = ` Minimo ${low}`
       V_arbid
-        .innerHTML = `Variação ${varBid}`
+        .innerHTML = `Variação ${varBid} %`
       P_ctchange
         .innerHTML = `Porcentagem de Variação ${item.Pctchange} %`
       C_date
