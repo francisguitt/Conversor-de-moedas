@@ -20,11 +20,6 @@
     (e) => { e.preventDefault() })
   // prevent event click
   //=≠===============≠====≠=======
-  const Rs = c("#rs");
-  //id radio select
-  let Dl_r = c("#dl_r");
-  //id radio select
-  //=========≠=========≠=======
   let Rl = document
     .querySelector("#rl");
   // id simbol Real
