@@ -4,12 +4,12 @@
 (function () {
   "use strict"
 
-  window.addEventListener('load', () => {
+ /* window.addEventListener('load', () => {
     setTimeout(() => {
       alert(" Esse aplicativo usa serviços externos \n de https://docs.awesomeapi.com.br/ \n api-de-moedas ");
       // msg saud company api.
     }, 10000)
-  })
+  })*/
   // start of main function auto close
   //variabls global
   const c = (el) => document
