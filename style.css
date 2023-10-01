@@ -22,7 +22,9 @@ body {
    color: #000000;
    background-color: white;
  }
- 
+ .content_header h2{
+    font-family:"Roboto",sans sério;
+}
  .card{
    display: flex;
    height: 110px;
